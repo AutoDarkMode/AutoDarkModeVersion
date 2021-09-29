@@ -3,3 +3,4 @@ FileName: ADM
 AutoUpdateAvailable: true
 Message: "(Pre-Release) Fix Updater progress bar"
 MinUpdaterVersion: 1.23
+UpdaterVersion: 1.23
