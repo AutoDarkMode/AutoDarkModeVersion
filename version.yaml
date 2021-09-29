@@ -1,6 +1,6 @@
-Tag: 10.0.0.11
+Tag: 10.0.0.12
 FileName: ADM
 AutoUpdateAvailable: true
-Message: "(Pre-Release) Build cf471c9"
+Message: "(Pre-Release) Build 6032dd4: fix frontend crash"
 MinUpdaterVersion: 1.23
 UpdaterVersion: 1.23
