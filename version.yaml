@@ -2,3 +2,4 @@ Tag: 10.0.0.9
 FileName: ADM
 AutoUpdateAvailable: true
 Message: "(Pre-Release) Fix Updater progress bar"
+MinUpdaterVersion: 1.23
