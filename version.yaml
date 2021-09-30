@@ -1,6 +1,6 @@
 Tag: 10.0.0.14
 FileName: ADM
 AutoUpdateAvailable: true
-Message: "(Pre-Release) Build 2f9f3ee: PageTime done, backend support to wait for geolocator, fix backend crash on netmq message receive"
+Message: "(Pre-Release) Build 41241e3: Switch Modes Page, changelog url in updater
 UpdaterVersion: 1.23
 ChangelogUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/
