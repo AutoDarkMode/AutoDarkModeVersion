@@ -1,7 +1,7 @@
-Tag: 10.0.0.17
-PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.17/ADM.zip&dl=1
-PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.17/ADM.sha256&dl=1
+Tag: 10.0.0.18
+PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.18/ADM.zip&dl=1
+PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.18/ADM.sha256&dl=1
 AutoUpdateAvailable: true
-Message: "(Pre-Release) Build 43a7a04: System Theme switch improvements, fix color filter key not instantiating correctly"
+Message: "(Pre-Release) attempt 2 at fixing color filter"
 UpdaterVersion: 2.00
 ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/"
