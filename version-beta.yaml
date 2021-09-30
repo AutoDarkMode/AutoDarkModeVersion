@@ -1,5 +1,6 @@
-Tag: 10.0.0.10
+Tag: 10.0.0.14
 FileName: ADM
 AutoUpdateAvailable: true
-Message: "This is beta branch"
+Message: "(Pre-Release) Build 41241e3: Switch Modes Page, changelog url in updater
 UpdaterVersion: 1.23
+ChangelogUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/
