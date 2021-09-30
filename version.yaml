@@ -2,6 +2,6 @@ Tag: 10.0.0.19
 PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.19/ADM.zip&dl=1
 PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.19/ADM.sha256&dl=1
 AutoUpdateAvailable: true
-Message: "(Pre-Release) attempt 2 at fixing color filter"
+Message: "(Pre-Release) fix fluentwpf not respecting system theme settings"
 UpdaterVersion: 2.00
 ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/"
