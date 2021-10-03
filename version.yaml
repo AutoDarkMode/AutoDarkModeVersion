@@ -1,7 +1,7 @@
-Tag: 10.0.0.23
-PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.23/ADM.zip&dl=1
-PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.23/ADM.sha256&dl=1
+Tag: 10.0.0.25
+PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.25/ADM.zip&dl=1
+PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.25/ADM.sha256&dl=1
 AutoUpdateAvailable: true
-Message: "(Pre-Release) New Wallpaper Switching options in backend.\n\nAllow individual mode switching for components when an update is required."
+Message: "Release: Auto Dark Mode X with many improvements and new features"
 UpdaterVersion: 2.00
 ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/"
