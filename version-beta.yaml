@@ -1,7 +1,7 @@
 Tag: 10.0.1.0
-PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.1.0/ADM.zip&dl=1
-PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.1.0/ADM.sha256&dl=1
+PathFile: AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1/ADM.zip
+PathChecksum: AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1/ADM.sha256
 AutoUpdateAvailable: true
-Message: "(Pre-Release): Test Updater setting DisplayVersion of InnoSetup entry"
+Message: "(Pre-Release): Insider Beta Channel Update"
 UpdaterVersion: 2.0.1
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/"
+ChangelogUrl: "https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/10.0.1"
