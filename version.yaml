@@ -1,7 +1,7 @@
-Tag: 10.0.0.25
-PathFile: /d/de1ece51707943c3b471/files/?p=/10.0.0.25/ADM.zip&dl=1
-PathChecksum: /d/de1ece51707943c3b471/files/?p=/10.0.0.25/ADM.sha256&dl=1
+Tag: 10.0.0.26
+PathFile: AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.0.26/AutoDarkModeX_10.0.0.26.zip
+PathChecksum: AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.0.26/AutoDarkModeX_10.0.0.26.sha256
 AutoUpdateAvailable: true
 Message: "Release: Auto Dark Mode X with many improvements and new features"
 UpdaterVersion: 2.00
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/"
+ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.0.0.26/"
