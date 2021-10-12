@@ -1,7 +1,7 @@
 AutoUpdateAvailable: true
 ChangelogUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/projects/1
 Message: '(Pre-Release): Insider Beta Channel Update'
-PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.37/ADM.sha256
-PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.37/ADM.zip
-Tag: 10.0.1.37
+PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.38/ADM.sha256
+PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.38/ADM.zip
+Tag: 10.0.1.38
 UpdaterVersion: 2.0
