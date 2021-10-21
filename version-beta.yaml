@@ -1,7 +1,7 @@
 AutoUpdateAvailable: true
-ChangelogUrl: https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/10.0.1.58
+ChangelogUrl: https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/10.0.1.59
 Message: '(Pre-Release): Insider Beta Channel Update'
-PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.58/ADM.sha256
-PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.58/ADM.zip
-Tag: 10.0.1.58
+PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.59/ADM.sha256
+PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/10.0.1.59/ADM.zip
+Tag: 10.0.1.59
 UpdaterVersion: 2.0
