@@ -1,7 +1,7 @@
-Tag: 10.0.1.75
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.75/AutoDarkModeX_10.0.1.75.zip
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.75/AutoDarkModeX_10.0.1.75.sha256
+Tag: 10.0.1.76
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.75/AutoDarkModeX_10.0.1.76.zip
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.75/AutoDarkModeX_10.0.1.76.sha256
 AutoUpdateAvailable: true
 Message: "Maintenance release with lots of fixes and small improvements!"
 UpdaterVersion: 2.0
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.0.1.75/"
+ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.0.1.76/"
