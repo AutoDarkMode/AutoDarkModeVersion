@@ -1,7 +1,7 @@
-Tag: 10.0.1.76
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.0.1.76.zip
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.0.1.76.sha256
+Tag: 10.1.0.10
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.1.0.10.zip
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.1.0.10.sha256
 AutoUpdateAvailable: true
-Message: "Maintenance release with lots of fixes and small improvements!"
+Message: "Feature release with hotkey support and more!"
 UpdaterVersion: 2.0
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.0.1.76/"
+ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.1.0.10/"
