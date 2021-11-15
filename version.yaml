@@ -1,6 +1,6 @@
 Tag: 10.1.0.10
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.1.0.10.zip
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.0.1.76/AutoDarkModeX_10.1.0.10.sha256
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.zip
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.sha256
 AutoUpdateAvailable: true
 Message: "Feature release with hotkey support and more!"
 UpdaterVersion: 2.0
