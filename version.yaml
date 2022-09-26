@@ -1,7 +1,7 @@
-Tag: 10.1.0.10
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.zip
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.sha256
+Tag: 10.2.0.18
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.2.0.18/AutoDarkModeX_10.2.0.18.zip
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.2.0.18/AutoDarkModeX_10.2.0.18.sha256
 AutoUpdateAvailable: true
-Message: "Feature release with hotkey support and more!"
+Message: "Feature release with Win11 22H2 fixes"
 UpdaterVersion: 2.0
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.1.0.10/"
+ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.2.0.18/"
