@@ -1,4 +1,4 @@
-# Auto Dark Mode Version & Beta Build repository
+# Auto Dark Mode Version & Beta Build Repository
 This repository is part of the Auto Dark Mode Project
 
 https://github.com/AutoDarkMode/Windows-Auto-Night-Mode
