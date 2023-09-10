@@ -1,7 +1,7 @@
-Tag: 10.3.0.90
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.sha256
 AutoUpdateAvailable: true
-Message: "Many new features and improved theme switching on 22H2"
-UpdaterVersion: 2.0
-ChangelogUrl: "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.3.0.90/"
+ChangelogUrl: https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/10.4.0.35
+Message: 'New features, UI overhaul and theme engine improvements'
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.zip.sha256
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.zip
+Tag: 10.4.0.35
+UpdaterVersion: 3.0
