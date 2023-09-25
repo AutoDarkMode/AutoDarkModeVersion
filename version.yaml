@@ -1,7 +1,7 @@
 AutoUpdateAvailable: true
-ChangelogUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.4.0.35
-Message: 'New features, UI overhaul and theme engine improvements'
-PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.zip.sha256
-PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.zip
-Tag: 10.4.0.35
+ChangelogUrl: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/10.4.1.1
+Message: 'Theme switch disable hotfix and translation updates'
+PathChecksum: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.sha256
+PathFile: /AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip
+Tag: 10.4.1.1
 UpdaterVersion: 3.0
