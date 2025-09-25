@@ -1,9 +1,9 @@
 AutoUpdateAvailable: true
-ChangelogUrl: https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/11.0.0.48
+ChangelogUrl: https://github.com/AutoDarkMode/AutoDarkModeVersion/releases/tag/11.0.0.49
 Message: '(Pre-Release): Insider Beta Channel Update'
-PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.48/ADM_x86.sha256
-PathChecksumArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.48/ADM_ARM64.sha256
-PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.48/ADM_x86.zip
-PathFileArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.48/ADM_ARM64.zip
-Tag: 11.0.0.48
+PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.49/ADM_x86.sha256
+PathChecksumArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.49/ADM_ARM64.sha256
+PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.49/ADM_x86.zip
+PathFileArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.0.0.49/ADM_ARM64.zip
+Tag: 11.0.0.49
 UpdaterVersion: 4.0
