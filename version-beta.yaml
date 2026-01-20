@@ -5,5 +5,6 @@ PathChecksum: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.1.0.12/ADM_
 PathChecksumArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.1.0.12/ADM_ARM64.sha256
 PathFile: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.1.0.12/ADM_x86.zip
 PathFileArm: /AutoDarkMode/AutoDarkModeVersion/releases/download/11.1.0.12/ADM_ARM64.zip
-Tag: 11.1.0.12
+Tag: 11.1.0.11
 UpdaterVersion: 4.0
+
